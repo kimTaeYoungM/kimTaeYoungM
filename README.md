@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-0055FF?style=for-the-badge&logo=VISUAL STUDIO CODE&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimTaeYoungM&show_icons=true&theme=radical)
+![github_dark][github_dark] | `github_dark_dimmed` ![github_dark_dimmed][github_dark_dimmed] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple]
 
 
 <!--
